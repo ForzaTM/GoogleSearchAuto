@@ -1,0 +1,22 @@
+﻿2017-11-08 16:30:34,156 - TestSetUp -INFO - ********* New Test Started *********
+2017-11-08 16:30:34,159 - TestSetUp -INFO - Getting properties for test cases
+2017-11-08 16:30:34,159 - TestSetUp -INFO - Open WebPage in browser with driver: ChromeDriver
+2017-11-08 16:30:38,596 - TestSetUp -INFO - Go To Url: https://www.google.com
+2017-11-08 16:30:42,678 - googleSearchTest -INFO - Text: automation successfully entered
+2017-11-08 16:30:43,370 - TestSetUp -INFO - AssertTrue condition is true
+2017-11-08 16:30:44,421 - TestSetUp -INFO - [[[[ChromeDriver: chrome on XP (521500df2e3502075f13a0cbd2304380)] -> id: search]] -> xpath: .//a[contains(@href, '')][1]] - Click
+2017-11-08 16:30:44,529 - TestSetUp -INFO - AssertTrue condition is true
+2017-11-08 16:30:44,530 - googleSearchTest -INFO - Text: automation persist in the title of new page
+2017-11-08 16:30:44,530 - TestSetUp -INFO - ********* Test Finished *********
+2017-11-08 16:30:45,240 - TestSetUp -INFO - ********* New Test Started *********
+2017-11-08 16:30:45,240 - TestSetUp -INFO - Getting properties for test cases
+2017-11-08 16:30:45,241 - TestSetUp -INFO - Open WebPage in browser with driver: ChromeDriver
+2017-11-08 16:30:47,715 - TestSetUp -INFO - Go To Url: https://www.google.com
+2017-11-08 16:30:50,946 - googleSearchTest -INFO - Text: automation successfully entered
+2017-11-08 16:30:51,983 - googleSearchTest -INFO - testautomationday.com is not present on page: 1
+2017-11-08 16:30:53,330 - googleSearchTest -INFO - testautomationday.com is not present on page: 2
+2017-11-08 16:30:54,794 - googleSearchTest -INFO - testautomationday.com is not present on page: 3
+2017-11-08 16:30:56,207 - googleSearchTest -INFO - testautomationday.com is not present on page: 4
+2017-11-08 16:30:57,713 - googleSearchTest -INFO - testautomationday.com is not present on page: 5
+2017-11-08 16:30:57,714 - googleSearchTest -INFO - No domains like: testautomationday.com within pages: 1 - 5
+2017-11-08 16:30:57,714 - TestSetUp -INFO - ********* Test Finished *********
